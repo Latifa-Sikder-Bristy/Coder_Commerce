@@ -1,0 +1,13 @@
+.icon{
+    right: 20px;
+}
+.coder-btn-buy-now{
+    background-image: linear-gradient(to bottom, #f37a27 0%, #F37827 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.bg-carousel{
+    background-color: #feeae8;
+}    
